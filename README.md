@@ -1,6 +1,6 @@
 
 # Olá, Mundo!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=35&duration=3500&pause=1000&color=07F7D4&width=500&lines=Boas+vindas+ao+meu+perfil+no+GitHub!;Me+chamo+Gustavo+Santos+o%2F;Novato+na+area+de+programa%C3%A7%C3%A3o+%3DP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=35&duration=3500&pause=1000&color=07F7D4&width=500&lines=Boas+vindas+ao+meu+perfil+no+GitHub!;Me+chamo+Gustavo+Santos+o%2F;Novato+na+área+de+programa%C3%A7%C3%A3o+%3DP)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mim
 Muito prazer, caro leitor! 
