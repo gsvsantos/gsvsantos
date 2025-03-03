@@ -4,11 +4,11 @@
 
 ## Sobre mim 🚀
 Muito prazer, caro leitor! 
-Tenho 21 anos e atualmente moro em Gravataí-RS. 
+Tenho 22 anos e atualmente moro em Gravataí-RS. 
 Desde pequeno eu tenho uma paixão pelo mundo tecnológico, e agora com um pouco mais de tempo e disposição em aprender, decidi que a programação é a parte deste mundo na qual eu quero me dedicar. 
 
 ## Estudando 📖
-Atualmente, cursando o bootcamp de Java com Spring Boot, da DIO em parceria com a Claro.
+Atualmente, cursando C# Completo + POO na Udemy com as aulas do professor Nelio Alves.
 
 ## Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=gotham&show_icons=true&hide_border=true&count_private=true)
@@ -17,7 +17,6 @@ Atualmente, cursando o bootcamp de Java com Spring Boot, da DIO em parceria com 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-3bb9b62b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gustavocnsantos02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsvsantos)
-[![DIO](https://i.imgur.com/lwHxXQM.png)](https://www.dio.me/users/gustavocnsantos02)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gussntos/)
 
 
