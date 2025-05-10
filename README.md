@@ -8,7 +8,7 @@ Tenho 22 anos e atualmente moro em Gravataí-RS.
 Desde pequeno eu tenho uma paixão pelo mundo tecnológico, e agora com um pouco mais de tempo e disposição em aprender, decidi que a programação é a parte deste mundo na qual eu quero me dedicar. 
 
 ## Estudando 📖
-Atualmente, curso Fullstack da Academia do Programador 2025, com as aulas do professor Tiago Santini, vulgo Tiagão.
+Atualmente, curso Fullstack da [Academia do Programador](https://academiadoprogramador.net/) 2025, com as aulas dos professores [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages).
 
 ## Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=gotham&show_icons=true&hide_border=true&count_private=true)
