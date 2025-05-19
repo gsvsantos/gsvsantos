@@ -3,12 +3,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=35&duration=3500&pause=1000&color=07F7D4&width=500&lines=Boas+vindas+ao+meu+perfil+no+GitHub!;Me+chamo+Gustavo+Santos+o%2F;Novato+na+área+de+programa%C3%A7%C3%A3o+%3DP)](https://git.io/typing-svg)
 
 ## Sobre mim 🚀
-Muito prazer, caro leitor! 
-Tenho 22 anos e atualmente moro em Gravataí-RS. 
-Desde pequeno eu tenho uma paixão pelo mundo tecnológico, e agora com um pouco mais de tempo e disposição em aprender, decidi que a programação é a parte deste mundo na qual eu quero me dedicar. 
+Muito prazer, caro leitor!  
+Tenho 22 anos e atualmente moro em Gravataí-RS.  
+Atualmente estou 100% focado nos estudos para me tornar um Desenvolvedor FullStack. Desde pequeno sou apaixonado por tecnologia, e hoje estou tornando essa paixão uma carreira. Venho da área de atendimento ao cliente, e nessa transição profissional trago comigo a vontade de aprender, me superar e crescer com propósito.
 
 ## Estudando 📖
-Atualmente, curso Fullstack da [Academia do Programador](https://academiadoprogramador.net/) 2025, com as aulas dos professores [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages).
+Curso FullStack 2025 — [Academia do Programador](https://academiadoprogramador.net/)  
+Professores: [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages)  
+Foco atual: C#, ASP.NET, Razor Pages, lógica de programação, HTML, CSS e Git.  
+  
+HTML5 e CSS | Módulo 1 - [Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/)  
+Professor: [Gustavo Guanabara](https://github.com/gustavoguanabara)  
+
+## Projetos 💼
+Em construção — logo aqui você verá meus primeiros projetos com C#, ASP.NET e mais.  
+Todos os repositórios estarão organizados com README, anotações e objetivos de cada projeto.
 
 ## Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=gotham&show_icons=true&hide_border=true&count_private=true)
@@ -19,7 +28,7 @@ Atualmente, curso Fullstack da [Academia do Programador](https://academiadoprogr
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gsvsantos)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gussntos/)
 
-
+🌐 Em breve: meu portfólio pessoal completo (com projetos, contato e mais).
 
 #
 ![](https://komarev.com/ghpvc/?username=gsvsantos&style=for-the-badge)
