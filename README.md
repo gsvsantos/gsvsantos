@@ -20,7 +20,10 @@ Em construção — logo aqui você verá meus primeiros projetos com C#, ASP.NE
 Todos os repositórios estarão organizados com README, anotações e objetivos de cada projeto.
 
 ## Estatísticas 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <a href="https://github.com/gsvsantos"><img src="https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars" style="margin-right: 10px;"></a>
+  <a><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvsantos&layout=compact&langs_count=7&theme=tokyonight"></a>
+</div><br>
 
 ## Links 🔗
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-3bb9b62b7/)
