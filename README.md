@@ -128,4 +128,4 @@ HTML5 e CSS | Módulo 1 – [Curso em Vídeo](https://www.cursoemvideo.com/curso
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gussntos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551996616244)
 
-<!-- 🌐 Em breve: portfólio pessoal (projetos, contato e mais). -->
+🌐 Portfólio: https://gsvsantos.github.io/portfolio/inicio (Em desenvolvimento)
