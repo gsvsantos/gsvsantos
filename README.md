@@ -75,7 +75,13 @@ ASP.NET MVC + SQL Server.
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <p align="center">
+    <a href="https://wakatime.com/@d66fe803-196c-4729-b330-f8a026db44ec">
+      <img src="https://wakatime.com/badge/user/d66fe803-196c-4729-b330-f8a026db44ec.svg" alt="Total time coded since May 7 2025" />
+    </a>
+  </p>
 </p>
+
 
 <details>
   <summary><b>➡️ Ferramentas e padrões já usados (clique para expandir)</b></summary>
