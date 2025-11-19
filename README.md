@@ -115,7 +115,7 @@ HTML5 e CSS | Módulo 1 – [Curso em Vídeo](https://www.cursoemvideo.com/curso
 ## Estatísticas 📊
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars" alt="GitHub Stats de gsvsantos">
+    <img src="https://github-readme-stats.vercel.app/api?username=gsvsantos&theme=tokyonight&include_all_commits=false&count_private=true&hide=stars" alt="GitHub Stats de gsvsantos">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvsantos&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por gsvsantos">
   <br/><br/>
     <img height="170" src="https://raw.githubusercontent.com/gsvsantos/gsvsantos/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake dos commits">
