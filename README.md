@@ -1,15 +1,15 @@
 <h1 align="center">Olá, Mundo! 🌎</h1>
 
 <p align="center">
-  Full-stack em formação (.NET + Angular)</b>.<br/>
-  Eu priorizo <b>código simples</b>, <b>contratos claros</b> e <b>testes que validam comportamento</b>.
+  <b>Desenvolvedor Full-Stack (.NET + Angular)</b>.<br/>
+  Gosto de <b>desafios técnicos</b>, <b>inovação</b> e de construir <b>soluções que resolvem problemas reais</b>.
 </p>
 
 <p align="center">
   <a href="#sobre-mim-">Sobre</a> •
   <a href="#projetos-em-destaque-">Projetos</a> •
   <a href="#stack-principal-">Stack</a> •
-  <a href="#estudando-agora-">Estudando</a> •
+  <a href="#formação-e-estudos-">Formação</a> •
   <a href="#estatísticas-">Estatísticas</a> •
   <a href="#contato-">Contato</a>
 </p>
@@ -18,39 +18,42 @@
 
 ## Sobre mim 🚀
 
-Tenho **23 anos**, moro em **Gravataí/RS**. Concluí uma **ASP.NET Web API** e agora estou no módulo de **Angular**, construindo o frontend que consome essa API.
+Tenho **23 anos**, moro em **Gravataí/RS**. Sou formado pela **Academia do Programador (900h)**, onde desenvolvi uma base sólida em Engenharia de Software.
+
+Recentemente, entreguei meu projeto final: um **SaaS completo de Locadora de Automóveis**, unindo a robustez do .NET no backend com a performance do Angular moderno no frontend.
 
 ---
 
 ## Projetos em destaque 💼
 
+### 🚗 Plataforma SaaS — Locadora de Automóveis (TCC)
+
+**Full-Stack:** .NET 8 + Angular 20 • **Engenharia:** Clean Architecture + CQRS (MediatR)  
+**Dados:** SQL Server + Redis • **Infra:** Docker + Testcontainers  
+**Destaques:** Multi-tenancy real, Auth (JWT + Refresh Token + Google), Portal do Cliente (Marketplace) e Admin.  
+**Repo:** [Link do Repositório Aqui](https://github.com/gsvsantos/SEU_REPOSITORIO_DA_LOCADORA)
+
+---
+
 ### 🔷 Gestão de Estacionamento — Web API
 
-**Segurança:** JWT + refresh tokens (rotação) • **Arquitetura:** CQRS (Commands/Queries) •  
-**Dados:** EF Core + PostgreSQL • **Cache:** Redis • **Observabilidade:** Serilog + HealthChecks •  
+**Segurança:** JWT + refresh tokens (rotação) • **Arquitetura:** CQRS (Commands/Queries)  
+**Dados:** EF Core + PostgreSQL • **Cache:** Redis • **Observabilidade:** Serilog + HealthChecks  
 **DX:** docker-compose (app + DB + Redis) • **Qualidade:** testes (unidade/integração) com Testcontainers  
 **Repo:** https://github.com/gsvsantos/GestaoDeEstacionamento-WebAPI
 
 ---
 
-### 🛠️ Gestão de Estacionamento — Frontend (futuramente)
-
-App Angular que consumirá a Web API.  
-**Repo:** `<futuramente>`
-
----
-
 ### 🧪 GeradorDeTestes
 
-ASP.NET MVC + PostgreSQL • **PDF:** QuestPDF • **Logs:** Serilog •  
-**Qualidade:** testes (unidade/integração/UI) com **Testcontainers**  
-**Repo:** https://github.com/gsvsantos/GeradorDeTestes
+ASP.NET MVC + PostgreSQL • **PDF:** QuestPDF • **Logs:** Serilog  
+**Qualidade:** testes (unidade/integração/UI) com **Testcontainers** **Repo:** https://github.com/gsvsantos/GeradorDeTestes
 
 ---
 
 ### 🗂️ eAgenda
 
-ASP.NET MVC + SQL Server • módulos CRUD.  
+ASP.NET MVC + SQL Server • Módulos CRUD organizados.  
 **Repo:** https://github.com/gsvsantos/eAgenda
 
 ---
@@ -69,8 +72,8 @@ ASP.NET MVC + SQL Server.
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white">
   <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white">
   <img alt="Entity Framework Core" src="https://img.shields.io/badge/EF%20Core-6DB33F">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
@@ -81,7 +84,6 @@ ASP.NET MVC + SQL Server.
     </a>
   </p>
 </p>
-
 
 <details>
   <summary><b>➡️ Ferramentas e padrões já usados (clique para expandir)</b></summary>
@@ -101,12 +103,14 @@ ASP.NET MVC + SQL Server.
 
 ---
 
-## Estudando agora 📖
+## Formação e Estudos 📖
 
-**Curso FullStack 2025 – [Academia do Programador](https://academiadoprogramador.net/)**  
-Professores: [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages)
+**Curso FullStack 2025 – [Academia do Programador](https://academiadoprogramador.net/) (Concluído)** *Carga horária: 900 horas (Imersão prática)* Professores: [Tiago Santini](https://github.com/tiagosantini) e [Alexandre Rech](https://github.com/alexandre-rech-lages)
 
-**Foco atual:** **C#/.NET 8**, **ASP.NET Core**, **EF Core** (PostgreSQL/SQL Server), **CQRS (MediatR)**, **FluentValidation**, **AutoMapper**, **Redis**, **Serilog**, **Swagger**, **API Versioning**, **HealthChecks**, **Docker**, **Testcontainers** e **Angular** (arquitetura, componentes, rotas, Formulários Reativos, HttpClient/Interceptors, Observables, build e deploy).
+**Domínio Técnico Consolidado:**
+* **Back-end:** C#/.NET 8, ASP.NET Core, EF Core, CQRS (MediatR), FluentValidation, AutoMapper, Serilog.
+* **Front-end:** Angular (Standalone Components), TypeScript, RxJS, Formulários Reativos.
+* **Infra & DevOps:** Docker, Testcontainers, SQL Server, PostgreSQL, Redis.
 
 HTML5 e CSS | Módulo 1 – [Curso em Vídeo](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) — Prof.: [Gustavo Guanabara](https://github.com/gustavoguanabara)
 
@@ -119,16 +123,17 @@ HTML5 e CSS | Módulo 1 – [Curso em Vídeo](https://www.cursoemvideo.com/curso
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsvsantos&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas por gsvsantos">
   <br/><br/>
     <img height="170" src="https://raw.githubusercontent.com/gsvsantos/gsvsantos/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake dos commits">
+
 </div>
 
 ---
 
 ## Contato 🔗
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-3bb9b62b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsvsantos/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=red)](mailto:gustavocnsantos02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/gsvsantos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gussntos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-075E54?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5551996616244)
 
-🌐 Portfólio: https://gsvsantos.github.io/portfolio (Em desenvolvimento)
+🌐 Portfólio: https://gsvsantos.github.io/portfolio
